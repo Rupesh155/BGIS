@@ -1,0 +1,16 @@
+div{
+    background-color: red;
+    height: 50px;
+    display: block;
+    /* width: 50px; */ 
+}
+
+span{
+    display: inline-block;
+background-color: greenyellow;
+/* display: block; */
+display: none;
+/* visibility: hidden; */
+height: 50px;
+/* width: 300px; */
+}

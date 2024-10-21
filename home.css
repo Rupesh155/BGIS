@@ -1,0 +1,23 @@
+#parent{
+    background-color: red;
+    height: 100vh;
+    width: 100vw;
+    /* transition: 4s; */
+}
+li{
+    font-size: 2em;
+}
+
+
+/* #child{
+    background-color: greenyellow;
+    height: 50%;
+    width: 50%;
+} */
+/* div:hover{
+    background-color: greenyellow;
+    border-radius: 50%;
+} */
+
+
+/* 500 */

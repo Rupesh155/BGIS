@@ -1,0 +1,74 @@
+/* #parent{
+    border:  2px solid green;
+    height: 500px;
+ 
+}
+.one{
+    height: 100px;
+    width: 100px;
+    transition: 5s;
+}
+#parent:hover .one{
+    margin-left: 1211px;
+
+}
+#one{
+    background-color: red;
+    transition-timing-function: linear;
+}
+#two{
+    background-color: green;
+    transition-timing-function: ease-in;
+}
+#three{
+    background-color:  blue;
+    transition-timing-function: ease-out;
+}
+#four{
+    background-color: yellow;
+    transition-timing-function: ease-in-out;
+}
+ */
+
+
+ 
+/* h3{
+    color: red;
+}
+#one{
+    background-color: red;
+}
+.one{
+    background-color: blue;
+} */
+
+p:nth-of-type(2){
+    background-color: red;
+
+
+
+}
+
+
+
+/* #parent{
+    height: 100vh;
+    width: 100vw;
+    background-color: red;
+    transition: 4s;
+} */
+/* #child{
+    height: 50%;
+    width: 50%;
+    background-color: greenyellow;
+} */
+
+/* div:hover{
+    background-color: gold;
+    border-radius: 50%;
+} */
+
+
+li{
+    font-size: 2em;
+}
